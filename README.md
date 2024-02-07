@@ -1,11 +1,10 @@
 # ReactJS Tic Tac Toe Game
 
-This project is a Tic Tac Toe game developed using ReactJS, showcasing a simple yet interactive gaming experience. Designed for two players, this game runs in any modern web browser and offers a responsive design for various screen sizes.
+This project is a Tic Tac Toe game developed using ReactJS, showcasing a simple yet interactive gaming experience. Designed for two players, this game runs in any modern web browser.
 
 ## Features
 
 - **Interactive Gameplay:** Play against a friend on the same device, taking turns to mark Xs and Os.
-- **Responsive Design:** Enjoy the game on devices of varying sizes, from mobile phones to desktop screens.
 - **Game Status Display:** Keeps you updated with the current player's turn and announces the winner or a tie.
 
 ## Installation
